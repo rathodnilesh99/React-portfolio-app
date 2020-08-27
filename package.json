@@ -36,5 +36,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rathodnilesh99/React-portfolio-app/issues"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
