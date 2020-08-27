@@ -1,0 +1,40 @@
+{
+  "name": "react-portfolio-app",
+  "version": "1.0.0",
+  "description": "Reactjs portfolio website",
+  "homepage": "https://github.com/rathodnilesh99/React-portfolio-app#readme",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rathodnilesh99/React-portfolio-app.git"
+  },
+  "author": "Nilesh Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rathodnilesh99/React-portfolio-app/issues"
+  }
+}
